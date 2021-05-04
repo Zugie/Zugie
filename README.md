@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am Joe Zugelter, software engineer seeking a web development role. Currently, I am on a contract helping students learn Java. My education includes a master's degree in electrical computer engineering from the University of Texas at Austin and more recently a full stack .NET coding bootcamp.
+I am Joe Zugelter, software engineering consultant at Callibrity. My education includes a master's degree in electrical computer engineering from the University of Texas at Austin and more recently a full stack .NET coding bootcamp.
 
 - 😄 Pronouns: He/him, they/them
 
